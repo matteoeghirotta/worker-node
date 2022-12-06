@@ -1,0 +1,15 @@
+{
+  "name": "web-worker-nodejs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Use a worker in Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js localhost 8080"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
